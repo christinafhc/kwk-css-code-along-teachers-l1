@@ -13,3 +13,7 @@ body {
 #welcome {
   font-size: 200%;
 }
+
+div {
+  border-style: pink;
+}
