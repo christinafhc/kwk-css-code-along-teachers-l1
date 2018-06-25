@@ -1,14 +1,1 @@
 /* add CSS class and element and selectors here */
-body {
-  background-color:lightblue;
-  color: red;
-}
-
-h3 {
-  font-size: 300%;
-  text-shadow: 2px 5px #ffff00;
-}
-
-div {
-  border-style: dotted;
-}
