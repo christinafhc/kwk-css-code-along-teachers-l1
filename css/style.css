@@ -5,3 +5,7 @@ body {
   font: comic;
   /*this is where i want to change colors */
 }
+
+.infosection {
+  background-color: red;
+}
