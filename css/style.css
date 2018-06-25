@@ -2,4 +2,6 @@
 body {
   background-color: lightblue;
   font-size: 150%;
+  font: comic;
+  /*this is where i want to change colors */
 }
